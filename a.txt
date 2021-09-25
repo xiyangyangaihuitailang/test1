@@ -4,3 +4,14 @@
 2增加删除文件
 	git add 文件名
 	git add .  所有文件
+	git rm
+	git mv
+3 提交代码
+	git commit -m
+	gitcommit -a
+4 分支管理
+	git branch 
+	git branch -r 所有远程分支
+	git branch -a 所有本地和远程分支
+	git checkout -b 创建一个分支并切换
+	
